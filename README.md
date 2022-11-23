@@ -30,4 +30,4 @@ motion designer, художественный руководитель
 
 Контакты: olk.polyakova@gmail.com
 
-[](img/IBk_cUg0H7I.jpg)
+![](img/IBk_cUg0H7I.jpg)
